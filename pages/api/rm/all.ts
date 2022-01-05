@@ -2,7 +2,7 @@
 import type { NextApiRequest, NextApiResponse } from 'next'
 import axios from 'axios'
 
-import rmApi from '../../../configs/axios'
+import rmApi from '../../../configs/axios/rm'
 
 type Data = {
   name: string
