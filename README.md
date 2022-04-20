@@ -1,4 +1,4 @@
-# About aiufhdioaushdfiouahsdoiufdh
+# About
 
 It's a just more one POC about Next.js
 
