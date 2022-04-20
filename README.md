@@ -6,4 +6,7 @@ It's a just more one POC about Next.js
 
 - [ ] Get All Characters
 - [ ] Get One Character
-- [ ] Search by Charcater
+- [ ] Search by
+
+
+# ALTERAÇÃO 2
